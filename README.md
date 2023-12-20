@@ -1,5 +1,18 @@
-Um aplicativo de entrega de comida. Nesse aplicativo, existirão várias funcionalidades, como o cadastro de restaurante e comidas, serviço de entrega e entre outros.
+# Sistema 
 
-Lingaugem Utilizada: Python
-IDE: Vscode
-Sistema Operacional: Unbuntu WSL
+Este é um sistema simples em Python para cadastrar e listar restaurantes. Ele foi desenvolvido para fins educacionais e de demonstração.
+
+## Funcionalidades
+
+1. **Cadastrar Restaurante:** Permite cadastrar um novo restaurante, adicionando-o à lista de restaurantes.
+
+2. **Listar Restaurantes:** Exibe a lista de restaurantes cadastrados, incluindo nome, categoria e status de ativação.
+
+3. **Ativar Restaurante:** (Em desenvolvimento)
+
+4. **Finalizar App:** Encerra a execução do aplicativo.
+
+## Pré-requisitos
+
+- Python 3.x
+- Sistema operacional compatível (Linux, macOS, Windows)
