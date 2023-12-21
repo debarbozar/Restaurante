@@ -14,5 +14,5 @@ Este é um sistema simples em Python para cadastrar e listar restaurantes. Ele f
 
 ## Pré-requisitos
 
-- Python 3.x
+- Python 3.12
 - Sistema operacional compatível (Linux, macOS, Windows)
